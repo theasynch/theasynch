@@ -14,4 +14,4 @@
 <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img align = "centre" alt="theasynchronus' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theasynchronus&langs_count=8&count_private=true&layout=compact&theme=blue-green&hide_border=true&bg_color=0D1117" /></a>
 
 
-<p align="center"><img alt="theasynchronus' streak" src="https://github-readme-streak-stats.herokuapp.com/?user=theasynchronus&theme=blue-green&hide_border=true&stroke=0000&background=060A0CD0"/></a></p>
+<p align="left"><img alt="theasynchronus' streak" src="https://github-readme-streak-stats.herokuapp.com/?user=theasynchronus&theme=blue-green&hide_border=true&stroke=0000&background=060A0CD0"/></a></p>
