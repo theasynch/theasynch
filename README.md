@@ -1,3 +1,6 @@
+<a href="#"><img width="100%" height="auto" src="https://media.discordapp.net/attachments/883216605654433823/912538297266470942/the.asynchronus_1.png" height="175px"/></a>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm theasynchronus</h1>
+
 - 👋 Hi, I’m @theasynchronus
 - 👀 I’m interested in Discord and Pycord API wrappers
 - 🌱 I’m currently learning Python -- Pycord
@@ -8,9 +11,7 @@
 
 
 <img align="left" alt = "theasynchronus' GitHub Stats" src = "https://github-readme-stats.vercel.app/api?username=theasynchronus&theme=blue-green&show_icons=true&hide_border=true" />
+<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theasynchronus&langs_count=8&count_private=true&layout=compact&theme=blue-green&hide_border=true&bg_color=0D1117" /></a>
 
 
-<p align="center">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="theasynchronus' streak" src="https://github-readme-streak-stats.herokuapp.com/?user=theasynchronus&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+<p align="center"><img alt="theasynchronus' streak" src="https://github-readme-streak-stats.herokuapp.com/?user=theasynchronus&theme=blue-green&hide_border=true&stroke=0000&background=060A0CD0"/></a></p>
