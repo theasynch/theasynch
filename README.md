@@ -7,3 +7,4 @@
    - E-mail: omawthankar16032007@gmail.com
 
 
+<img align="left" alt = "theasynchronus' GitHub Stats" src = "https://github-readme-stats.vercel.app/api?username=theasynchronus&theme=blue-green&show_icons=true&hide_border=true" />
