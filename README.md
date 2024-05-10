@@ -1,5 +1,5 @@
 <a href="#"><img width="100%" height="auto" src="https://media.discordapp.net/attachments/883216605654433823/912538297266470942/the.asynchronus_1.png" height="175px"/></a>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm theasynchronus</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm theasynch</h1>
 
 - 👋 Hi, I’m @theasynchronus
 - 👀 I’m interested in Discord and Pycord API wrappers
