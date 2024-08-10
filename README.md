@@ -1,13 +1,10 @@
-<a href="#"><img width="100%" height="auto" src="https://media.discordapp.net/attachments/883216605654433823/912538297266470942/the.asynchronus_1.png" height="175px"/></a>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm theasynch</h1>
 
-- 👋 Hi, I’m @theasynchronus
-- 👀 I’m interested in Discord and Pycord API wrappers
-- 🌱 I’m currently learning Python -- Pycord
-- 💞️ I’m looking to collaborate on my project: Wissen: A cool discord bot
-- 📫 How to reach me:
-   - Discord Username#tag: asynchronus#4400
-   - E-mail: omawthankar16032007@gmail.com
+Hey there!
+I am a learning dev trying to code only to work upon my problem solving skills. Programming makes my brain work around problems and find intuitive solutions for them.
+I mainly code in python however I also know a little about UI/UX, Web Design and User Experience.
+I also do typography, photography and idea generation for fun.
 
 
 <img align="centre" alt = "theasynchronus' GitHub Stats" src = "https://github-readme-stats.vercel.app/api?username=theasynch&theme=blue-green&show_icons=true&hide_border=true" />
