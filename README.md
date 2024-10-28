@@ -10,8 +10,8 @@ I also do typography, photography and idea generation for fun.
 ---
 
 <a href="">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theasynch&theme=dark" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theasynch&theme=dark&layout=compact" />
 </a>
 <a href="">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=theasynch&theme=dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=theasynch&theme=dark&hide=issues," />
 </a>
