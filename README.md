@@ -20,7 +20,7 @@ I also do typography, photography, and idea generation for fun.
 
 ---
 
-# Languages I'm good at —
+# Languages & Starred Repositories —
 <div align="center">
     <img src="assets/CSS3_logo.svg.png"  style="background: transparent; width:100px; height: auto;"/>
     <img src="assets/HTML5_logo_and_wordmark.svg.png" style="background: transparent; width:120px; height: auto;" />
@@ -28,12 +28,9 @@ I also do typography, photography, and idea generation for fun.
     <img src="assets/Unofficial_JavaScript_logo_2.svg.png" style="width:100px; height: auto;" />
 </div>
 
----
-
-# Starred Repositories —
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=theasynch&repo=OptiChain&show_owner=True&theme=dark">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=theasynch&repo=zenith_web&show_owner=True&theme=dark">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=theasynch&repo=thetranquiltentmail&show_owner=True&theme=dark">  
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=theasynch&repo=OptiChain&show_owner=True&theme=dark"><br>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=theasynch&repo=zenith_web&show_owner=True&theme=dark"><br>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=theasynch&repo=thetranquiltentmail&show_owner=True&theme=dark"><br>  
     
 </div>
