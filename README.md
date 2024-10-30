@@ -52,7 +52,7 @@ I also do typography, photography, and idea generation for fun.
 </div>
 
 <div align="center">
-    <a href="github.com/theasynch/OptiChain"><img src="https://github-readme-stats.vercel.app/api/pin/?username=theasynch&repo=OptiChain&show_owner=True&theme=dark"></a>
+    <a href="OptiChain"><img src="https://github-readme-stats.vercel.app/api/pin/?username=theasynch&repo=OptiChain&show_owner=True&theme=dark"></a>
     <a href="github.com/theasynch/zenith_web"><img src="https://github-readme-stats.vercel.app/api/pin/?username=theasynch&repo=zenith_web&show_owner=True&theme=dark"></a>
     <a href="github.com/theasynch/thetranquilentmail"><img src="https://github-readme-stats.vercel.app/api/pin/?username=theasynch&repo=thetranquiltentmail&show_owner=True&theme=dark"></a> 
     <a href="github.com/theasynch/YDSE_Sim"><img src="https://github-readme-stats.vercel.app/api/pin/?username=theasynch&repo=YDSE_Sim&show_owner=True&theme=dark"></a>
