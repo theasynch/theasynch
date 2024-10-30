@@ -20,6 +20,27 @@ I also do typography, photography, and idea generation for fun.
 
 <br clear="both" />
 
+
+---
+
+# 📅 My 2024 Roadmap
+
+- **Q1**: 💻 Brainstormming and laying out OptiChain as a project  
+  - 🎯 Project: Create a finance tracker app for FMCG sector owners
+  - 🌐 Learning: Tkinter GUI and Database connectivity  
+
+- **Q2**: 💼 Finalizing OptiChain finance tracker with advanced features  
+  - 🎯 Project: Deploy OptiChain with full tracking and analytics  
+  - 🌐 Learning: Database management and secure APIs  
+
+- **Q3**: 🚀 Preparing for school mega fest and developing leadership skills  
+  - 🎯 Event: Organizing Syntax Surge hackathon & Zenith MUN  
+  - 🌐 Focus: Event management and team leadership  
+
+- **Q4**: 📚 Mastering Python simulations and GUI with Tkinter  
+  - 🎯 Project: Complete Young's Double-Slit Experiment Simulator  
+  - 🌐 Learning: Physics integrations with Python for real-world simulations  
+
 ---
 
 # Languages & Starred Repositories —
@@ -31,8 +52,11 @@ I also do typography, photography, and idea generation for fun.
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=theasynch&repo=OptiChain&show_owner=True&theme=dark"><br>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=theasynch&repo=zenith_web&show_owner=True&theme=dark"><br>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=theasynch&repo=thetranquiltentmail&show_owner=True&theme=dark"><br>  
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=theasynch&repo=OptiChain&show_owner=True&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=theasynch&repo=zenith_web&show_owner=True&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=theasynch&repo=thetranquiltentmail&show_owner=True&theme=dark"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=theasynch&repo=YDSE_Sim&show_owner=True&theme=dark">
     
 </div>
+
+
