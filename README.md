@@ -60,3 +60,12 @@ I also do typography, photography, and idea generation for fun.
 </div>
 
 
+
+<h1 alignt="center">Connect with me!</h1>
+
+<div align="center">
+  <a href="discord.com/users/692295384868978710"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
+  <a href="instagram.com/abeyaarom"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
+</div>
+
+
