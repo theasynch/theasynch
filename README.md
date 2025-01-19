@@ -25,21 +25,21 @@ I also do typography, photography, and idea generation for fun.
 
 # 📅 My 2024 Roadmap
 
-- **Q1**: 💻 Brainstormming and laying out OptiChain as a project  
-  - 🎯 Project: Create a finance tracker app for FMCG sector owners
-  - 🌐 Learning: Tkinter GUI and Database connectivity  
+- **Q1**: 🧠 Tinkering on a complete Home Automation solution  
+  - 🎯 Project: To create a Home Automation software with abilities.
+  - 🌐 Learning: IOT and User Experience  
 
-- **Q2**: 💼 Finalizing OptiChain finance tracker with advanced features  
-  - 🎯 Project: Deploy OptiChain with full tracking and analytics  
-  - 🌐 Learning: Database management and secure APIs  
+- **Q2**: 💼 Laying out the framework and ground base for the software  
+  - 🎯 Project: Starting to work around Google Home SDKs integration  
+  - 🌐 Learning: How Google Home works as a control centre for IOT  
 
-- **Q3**: 🚀 Preparing for school mega fest and developing leadership skills  
-  - 🎯 Event: Organizing Syntax Surge hackathon & Zenith MUN  
-  - 🌐 Focus: Event management and team leadership  
+- **Q3**: 🚀 Gettting good grades in college  
+  - 🎯 Strategy: Subject specific knowledge and a couple of projects  
+  - 🌐 Focus: Extracurricular and Academic integration  
 
-- **Q4**: 📚 Mastering Python simulations and GUI with Tkinter  
-  - 🎯 Project: Complete Young's Double-Slit Experiment Simulator  
-  - 🌐 Learning: Physics integrations with Python for real-world simulations  
+- **Q4**: 📚 Making a drop only website for selling some artwork  
+  - 🎯 Idea: Letting teens decorate their homes  
+  - 🌐 Learning: Media cultre and web browser frameworks  
 
 ---
 
