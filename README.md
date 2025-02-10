@@ -23,7 +23,7 @@ I also do typography, photography, and idea generation for fun.
 
 ---
 
-# 📅 My 2024 Roadmap
+# 📅 My 2025 Roadmap
 
 - **Q1**: 🧠 Tinkering on a complete Home Automation solution  
   - 🎯 Project: To create a Home Automation software with abilities.
