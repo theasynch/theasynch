@@ -1,4 +1,4 @@
-<img src="assets/hero.svg" alt="Omie: RTL to GDSII" width="100%">
+<img src="assets/hero.svg" alt="Om Awthankar" width="100%">
 
 ### `omie@silicon ~ $ ./contributions.sh`
 

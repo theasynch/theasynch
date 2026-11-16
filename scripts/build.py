@@ -222,11 +222,12 @@ def hero(t=None):
     o.append(f'<circle cx="{PAD + 7}" cy="63" r="10" fill="{LED}" fill-opacity=".16"/>'
              f'<circle{" class=\"led\"" if t is None else ""}{led_op} cx="{PAD + 7}" cy="63" r="5.5" fill="{LED}"/>')
     o.append(txt(PAD + 26, 68, P["eyebrow"], 12.5, MUTED, ls=1.8))
-    s1 = REG.fit(P["name"], col_w, 138)
-    o.append(serif([(REG, P["name"], INK)], s1, PAD - 4, 196)[0])
-    s2 = ITA.fit(P["name_line2"], col_w, 110)
-    o.append(serif([(ITA, P["name_line2"], GOLD)], s2, PAD - 2, 196 + s2 * 0.86)[0])
-    y = 196 + s2 * 0.86 + 44
+    ns = min(REG.fit(P["name"], col_w, 138), ITA.fit(P["name_line2"], col_w, 138))  # one shared size
+    base1 = 186
+    base2 = base1 + ns * 0.82
+    o.append(serif([(REG, P["name"], INK)], ns, PAD - 4, base1)[0])
+    o.append(serif([(ITA, P["name_line2"], GOLD)], ns, PAD - 2, base2)[0])
+    y = base2 + 44
     for line in P["tagline"]:
         o.append(txt(PAD, y, line, 19, SOFT, SANS))
         y += 28
@@ -265,7 +266,7 @@ def hero(t=None):
                  + f".beam{{animation:beam {BEAM_PERIOD:g}s linear infinite}}"
                  + f"@keyframes led{{0%,100%{{fill-opacity:.4}}50%{{fill-opacity:1}}}}"
                  + f".led{{animation:led {LED_PERIOD:g}s linear infinite}}")
-    return card(H, "".join(o), f'{P["name"]}: {P["name_line2"]}', defs, style)
+    return card(H, "".join(o), f'{P["name"]} {P["name_line2"]}', defs, style)
 
 
 # ---- card 2: heatmap -------------------------------------------------------
