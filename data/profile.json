@@ -4,8 +4,8 @@
   "name_line2": "Awthankar",
   "eyebrow": "VLSI DESIGN & TECHNOLOGY · VIT VELLORE",
   "tagline": [
-    "I design digital silicon, RTL to GDSII,",
-    "and help take a CubeSat SoC to tapeout."
+    "I help a rock think,",
+    "shpping from RTL/Schematic to GDSII,"
   ],
   "link": "github.com/theasynch",
   "ascii": { "mode": "die", "photo": "source-photo.png", "cols": 100, "rows": 60, "invert": false },
