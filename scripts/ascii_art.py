@@ -100,17 +100,21 @@ def die_image(size=SIZE):
         gy = y0 + 22
         while gy < y1 - 14:
             d.ellipse([gx - 8, gy - 8, gx + 8, gy + 8], fill=0)
-            d.line([gx, gy, gx + 24, gy], fill=120, width=3)
+            d.line([gx, gy, min(gx + 24, x1 - 10), gy], fill=120, width=3)
             gy += 24
         gx += 24
 
-    # power management: diagonal hatch
+    # power management: array of power-gating switch cells, kept inside the block border
     x0, y0, x1, y1 = block_rect("pmu")
     d.rectangle([x0, y0, x1, y1], outline=0, width=7)
-    k = -int(y1 - y0)
-    while k < int(x1 - x0):
-        d.line([x0 + k, y1, x0 + k + (y1 - y0), y0], fill=40, width=4)
-        k += 14
+    gy = y0 + 16
+    while gy + 12 < y1 - 10:
+        gx = x0 + 16
+        while gx + 12 < x1 - 10:
+            d.rectangle([gx, gy, gx + 12, gy + 12], fill=25)
+            gx += 20
+        d.line([x0 + 10, gy + 17, x1 - 10, gy + 17], fill=150, width=2)
+        gy += 22
 
     sx = c0 + 36                                                            # power straps
     while sx < c0 + cw:
