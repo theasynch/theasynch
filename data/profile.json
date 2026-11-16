@@ -1,0 +1,56 @@
+{
+  "github_user": "theasynch",
+  "name": "Omie",
+  "name_line2": "RTL to GDSII",
+  "eyebrow": "VLSI DESIGN & TECHNOLOGY · VIT VELLORE",
+  "tagline": [
+    "I design digital silicon, RTL to GDSII,",
+    "and help take a CubeSat SoC to tapeout."
+  ],
+  "link": "github.com/theasynch",
+  "ascii": { "mode": "die", "photo": "source-photo.png", "cols": 100, "rows": 60, "invert": false },
+
+  "heatmap_title": ["Every day, ", "timing closed."],
+  "flow_title": ["RTL to GDSII, ", "where I stand."],
+  "projects_title": ["Selected ", "work."],
+
+  "flow": [
+    { "n": "01", "name": ["Spec &", "Architecture"],   "tools": ["uArch · blocks", "IP partitioning"],    "status": "solid" },
+    { "n": "02", "name": ["RTL", "Design"],            "tools": ["Verilog · SV", "RISC-V (RV32IMC)"],     "status": "solid" },
+    { "n": "03", "name": ["Functional", "Verification"], "tools": ["Testbenches · SVA", "UVM (learning)"], "status": "building" },
+    { "n": "04", "name": ["Logic", "Synthesis"],       "tools": ["Yosys / DC", "SDC constraints"],        "status": "building" },
+    { "n": "05", "name": ["Design for", "Test"],       "tools": ["Scan insertion", "ATPG basics"],        "status": "queued" },
+    { "n": "06", "name": ["Physical", "Design"],       "tools": ["Floorplan · CTS", "OpenROAD / Innovus"], "status": "building" },
+    { "n": "07", "name": ["STA &", "Signoff"],         "tools": ["PrimeTime", "setup/hold · IR drop"],    "status": "queued" },
+    { "n": "08", "name": ["Physical", "Verification"], "tools": ["DRC · LVS", "Magic / Calibre"],         "status": "queued" },
+    { "n": "09", "name": ["Tapeout &", "Fab Handoff"], "tools": ["GDSII streamout", "MPW shuttle"],       "status": "progress" },
+    { "n": "10", "name": ["Post-Silicon", "Bring-up"], "tools": ["Bench validation", "Characterization"], "status": "queued" }
+  ],
+
+  "projects": [
+    {
+      "name": "ARES",
+      "tag": "SCL 180NM · TAPEOUT TARGET",
+      "desc": ["CubeSat on-board computer SoC, 8-person team.", "PicoRV32, 32-neuron SNN, adaptive power mgmt."],
+      "chips": ["RISC-V", "RTL", "Low power", "SoC"]
+    },
+    {
+      "name": "RVSim",
+      "tag": "C++ · COMPUTER ARCHITECTURE",
+      "desc": ["Cycle-accurate RISC-V pipeline simulator with", "branch prediction and a cache hierarchy."],
+      "chips": ["C++", "RISC-V", "Caches", "Python"]
+    },
+    {
+      "name": "CG-CS LNA",
+      "tag": "UMC 28HPC+ · CADENCE VIRTUOSO",
+      "desc": ["Hybrid common-gate / common-source", "noise-cancelling wideband LNA."],
+      "chips": ["Analog / RF", "Virtuoso", "Noise cancelling"]
+    },
+    {
+      "name": "EventVault-R",
+      "tag": "DE1-SoC FPGA · DWT",
+      "desc": ["CubeSat data escrow for transient astronomy,", "wavelet-based compression on an FPGA."],
+      "chips": ["FPGA", "DWT", "CubeSat"]
+    }
+  ]
+}
